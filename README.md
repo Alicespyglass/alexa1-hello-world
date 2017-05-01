@@ -3,7 +3,7 @@
 A first attempt at creating an Alexa skill following Makers Academy's Alexa series.
 
 **Note**
-Not yet submitted to Amazon for certification. Let me know if you'd like to be a tester.
+Not yet submitted to Amazon for certification. If you have an echo / Alexa enabled device, let me know if you'd like to be a tester and I'll share a link to the skill.
 
 ## Set-up
 
