@@ -1,8 +1,17 @@
 # alexa1-hello-world
 
-A first attempt at creating an Alexa skill following Makers Academy's Alexa series.
+Presenting - Elocution by Alexa. With the imminent rise of Skynet, one must be able to blend in in order to survive.
+
+
+Stay tuned for the robot dance module.
+
+
+Part 1 of creating an Alexa skill following Makers Academy's Alexa series.
+
 
 **Note**
+
+
 Not yet submitted to Amazon for certification. Let me know if you'd like to be a tester.
 
 ## Set-up
@@ -36,4 +45,5 @@ Say "Alexa, Hello World"
 
 ## Resources
 [Amazon blog post with instructions](https://developer.amazon.com/blogs/post/105df30e-9890-4a8c-9caf-5de1c8ff86cb/makers-academy-s-alexa-series-how-to-build-a-hello-world-skill-with-ruby)
+
 [Alexa testing via developer's browser](https://echosim.io/)
